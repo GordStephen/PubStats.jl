@@ -1,0 +1,15 @@
+name = "PubStats"
+uuid = "f5d4af56-e5c8-11e8-21c3-63e624ccc5d2"
+authors = ["gord "]
+version = "0.1.0"
+
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataFramesMeta = "1313f7d8-7da2-5740-9ea0-a2ca25f37964"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
+WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
